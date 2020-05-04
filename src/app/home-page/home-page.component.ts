@@ -8,7 +8,7 @@ import { UserService } from '../user.service';
   styleUrls: ['./home-page.component.css']
 })
 export class HomePageComponent implements OnInit {
-    jopa34 = '';
+    AsAS = '';
   
     users: IUser[] = [];
     searchStr: '';
